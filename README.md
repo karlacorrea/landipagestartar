@@ -1,7 +1,7 @@
 <h3 align="center">
    <img alt="leia comigo" title="#logo" src="https://github.com/karlacorrea/landipagestartar/blob/main/images/Group%20699.png">
    <br><br>
-   <b>StartaR</b>  
+   <b></b>  
    <br><br>
 </h3>
 
@@ -19,7 +19,8 @@
 <br>
 Vídeo demo no **[YouTube](https://youtu.be/QngR3cfoA7k)**
 Vídeo pitch no **[YouTube](https://youtu.be/f37JkX3mQ1ck)**
-
+  <b></b>  
+   <br><br>
 <br>
 
 ## 👩🏻‍💻 Repositórios
