@@ -17,8 +17,8 @@
 
 **[Deploy](#)**
 <br>
-Vídeo demo no **[YouTube](Demo https://youtu.be/QngR3cfoA7k)**
-Vídeo pitch no **[YouTube](Pitch https://youtu.be/f37JkX3mQ1ck)**
+Vídeo demo no **[YouTube](https://youtu.be/QngR3cfoA7k)**
+Vídeo pitch no **[YouTube](https://youtu.be/f37JkX3mQ1ck)**
 
 <br>
 
