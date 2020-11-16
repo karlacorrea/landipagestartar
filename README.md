@@ -15,7 +15,7 @@
 
 É uma plataforma para unir empreendedores e mentores para descentralizar  o ecossistema de startups do Brasil.
 
-**[Deploy](https://leiacomigo.vercel.app/)**
+**[Deploy](#)**
 <br>
 Vídeo demo no **[YouTube](Demo https://youtu.be/QngR3cfoA7k)**
 Vídeo pitch no **[YouTube](Pitch https://youtu.be/f37JkX3mQ1ck)**
