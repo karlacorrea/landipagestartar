@@ -1,7 +1,7 @@
 <h3 align="center">
    <img alt="leia comigo" title="#logo" src="https://github.com/karlacorrea/landipagestartar/blob/main/images/Group%20699.png">
    <br><br>
-   <b>SturtaR</b>  
+   <b>StartaR</b>  
    <br><br>
 </h3>
 
