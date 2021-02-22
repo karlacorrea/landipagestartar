@@ -15,7 +15,7 @@
 
 É uma plataforma para unir empreendedores e mentores para descentralizar  o ecossistema de startups do Brasil.
 
-**[Deploy](#)**
+**[Deploy](https://startar-90bb10.netlify.app/)**
 <br>
 Vídeo demo no **[YouTube](https://youtu.be/QngR3cfoA7k)**
 Vídeo pitch no **[YouTube](https://youtu.be/f37JkX3mQ1ck)**
@@ -26,5 +26,5 @@ Vídeo pitch no **[YouTube](https://youtu.be/f37JkX3mQ1ck)**
 ## 👩🏻‍💻 Repositórios
 
 - **[WEB](https://github.com/karlacorrea/landipagestartar)**
-- **[BACK-END](https://github.com/DiegoJunges/startarWebClient)**
-- **[server](https://github.com/DiegoJunges/StartarServer)
+- **[BACK-END](#)**
+- **[server](#)**
